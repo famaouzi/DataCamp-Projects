@@ -1,2 +1,2 @@
-# DataScience-Projects
-This is several Data Science projects I've completed.
+# DataCamp-Projects
+This is several DataCamp's projects I've completed.
